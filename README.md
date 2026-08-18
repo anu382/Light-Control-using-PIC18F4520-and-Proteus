@@ -1,4 +1,4 @@
-```markdown
+
 # 💡 Automatic Light Control System (PIC18F4520 + LDR)
 
 ## 📖 Overview
@@ -64,6 +64,13 @@ The system automatically turns a light ON or OFF depending on the surrounding li
 - PWM-based dimming system  
 
 ---
+
+
+## 👨‍💻 Author
+Anushka Bakare 
+
+```
+
 
 
 
